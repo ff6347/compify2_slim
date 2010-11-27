@@ -15,10 +15,10 @@
 // 5. adds the comp to the renderqueue as singleframe****
 //
 // bugs: has to work from everywhere not only lowest level of proj window
-//       this seams to be a bug in compify and also on compify2
+//       this seems to be a bug in compify and also on compify2
 //       also the last version at Byron Nashs website: COMPIFYv5.JSX
 //       http://www.armoredsquirrel.com/scripts/COMPIFYv5.JSX
-//       seams also to have this bug
+//       seems also to have this bug
 // bugs: exit() and stop() won't work
 // 
 // todo: an external xml or json file or txt to read in the variables.
