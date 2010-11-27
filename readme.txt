@@ -14,9 +14,12 @@
 // 4. apply a effect preset**
 // 5. adds the comp to the renderqueue as singleframe****
 //
-// bugs: has to work from everywhere not only lowest level of proj window 
+// bugs: has to work from everywhere not only lowest level of proj window
+// bugs: exit() and stop() won't work
+// 
 // todo: an external xml or json file or txt to read in the variables.
 // todo: build the render templates  within
+// todo: change render location (use: "Change Render Locations.jsx")
 // todo: check within CS5
 // 
 //
