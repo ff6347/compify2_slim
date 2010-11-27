@@ -1,5 +1,5 @@
 // =====================================================================
-// compify2_slim.jsx by fabiantheblind Nov 2010 based on:
+// compify2_slim.jsx for After Effects CS4 by fabiantheblind Nov 2010 based on:
 //
 // compify2.jsx by Joseph M. Morgan - April 2005 based on:
 //
@@ -17,6 +17,7 @@
 // bugs: has to work from everywhere not only lowest level of proj window 
 // todo: an external xml or json file or txt to read in the variables.
 // todo: build the render templates  within
+// todo: check within CS5
 // 
 //
 // * Thanx to the great documentation and the straight structure within the code
