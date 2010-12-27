@@ -1,6 +1,6 @@
-*.ffx
-*.aom
-*.ars
+.ffx
+.aom
+.ars
 metaInfo.txt
 *.PNG
 *.png
